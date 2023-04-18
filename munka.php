@@ -5,8 +5,9 @@
 // Összeadás
 //***************
 
+
 $a=105; 
-$b=150;
+$b=17;
 ßc=12;
 
 print $a + $b + $c;
@@ -19,7 +20,7 @@ $y = 19;
 
 print "<br /><br />". $x - $Y;
 
-print "Konfkliktus lesz..."
+print "Konfkliktus lesz...";
 
 // Itt a vége :) s
 
