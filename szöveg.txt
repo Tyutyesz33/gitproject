@@ -1,3 +1,5 @@
-első sor.
- git config --global user.email "refe22.biro.istvan.florian@palfy-vizugyi.hu"
-  git config --global user.name "Biro Istvan"
+Első sor.
+ 
+Második sor
+
+Harmadik sor
